@@ -5,7 +5,7 @@ This is a C# console application that allows the user to input a text file full 
 Go to the ```Program.cs``` file, and change the string in line 15 to the path of the text file you want to use. Note that there are two text files provided with this project (```Multiple Choice/se3314.txt``` and ```Multiple Choice/se3351.txt```). An easy way to do this is drop the text file in the ```bin``` folder, and make the url the name of the text file 
 
 ### Example:
-Put ```se3314.txt``` in my project's ```Multiple Choice/bin``` folder, and make the url on line 15 of ```Program.cs```
+Put ```se3314.txt``` in your project's ```Multiple Choice/bin/Debug``` folder (assuming you are running your program in Debug mode), and make the url on line 15 of ```Program.cs```
 
 ```
 String url = "se3314.txt";
