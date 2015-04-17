@@ -5,7 +5,7 @@ This is a C# console application that allows the user to input a text file full 
 Go to the ```Program.cs``` file, and change the string in line 15 to the path of the text file you want to use. Note that there are two text files provided with this project (```Multiple Choice/se3314.txt``` and ```Multiple Choice/se3351.txt```)
 
 ## Text File Format
-The contents of the text file need to be in the following format
+If you would like to write your own questions, the contents of the text file need to be in the following format
 
 ```
 QUESTION:Some question
