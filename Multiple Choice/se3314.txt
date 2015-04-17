@@ -1,0 +1,1514 @@
+QUESTION:In the streaming stored audio/video category of audio/video services
+a)files are compressed and stored on the server
+b)a user listens to a broadcast audio and video through the internet
+c)people use the Internet to interactively communicate with one another
+d)None of the above
+ANSWER:files are compressed and stored on the server
+
+QUESTION:In the streaming live audio/video category of audio/video services
+a)files are compressed and stored on the server
+b)a user listens to a broadcast audio and video through the internet
+c)people use the Internet to interactively communicate with one another
+d)None of the above
+ANSWER:a user listens to a broadcast audio and video through the internet
+
+QUESTION:In the interactive audio/video category of audio/video services
+a)files are compressed and stored on the server
+b)a user listens to a broadcast audio and video through the internet
+c)people use the Internet to interactively communicate with one another
+d)None of the above
+ANSWER:people use the Internet to interactively communicate with one another
+
+QUESTION:Streaming stored audio/video is sometimes referred to as on-demand audio/video
+a)True
+b)False
+ANSWER:True
+
+QUESTION:An example of streaming stored audio/video is Internet radio
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Streaming live audio/video refers to on-demand requests for compressed audio/video
+a)True
+b)False
+ANSWER:False
+
+QUESTION:An example of interactive audio/video is Internet teleconferencing
+a)True
+b)False
+ANSWER:True
+
+QUESTION:A raw piece of information, whether audio or video, must be compressed and then digitized
+a)True
+b)False
+ANSWER:False
+
+QUESTION:A raw piece of information, whether audio or video, must be digitized and then compressed
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Digitization refers to
+a)conversion to a stream of numbers, and preferably these numbers should be integers for efficiency
+b)the process of coding that will effectively reduce the total number of bits needed to represent certain information
+c)the process of converting information into an analog format
+d)conversion to a stream of numbers, and preferably these numbers should be decimals for efficiency
+e)making the size of the file smaller by removing data from the file
+ANSWER:conversion to a stream of numbers, and preferably these numbers should be integers for efficiency
+
+QUESTION:Compression refers to
+a)conversion to a stream of numbers, and preferably these numbers should be integers for efficiency
+b)the process of coding that will effectively reduce the total number of bits needed to represent certain information
+c)the process of converting information into an analog format
+d)conversion to a stream of numbers, and preferably these numbers should be decimals for efficiency
+e)reordering bits of information so they are more easily read by a computer
+ANSWER:the process of coding that will effectively reduce the total number of bits needed to represent certain information
+
+QUESTION:Analog frequencies represents the sound frequency as a function of time
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Analog frequencies represents the sound amplitude as a function of time
+a)True
+b)False
+ANSWER:True
+
+QUESTION:To digitize an analog signal, the signal must be sampled in the dimension of time, as well as the dimension of amplitude
+a)True
+b)False
+ANSWER:True
+
+QUESTION:To digitize an analog signal, the signal must be sampled in the dimension of time, as well as the dimension of frequency
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Quantization refers to
+a)sampling in the voltage dimension
+b)sampling in the frequency dimension
+c)sampling in the time dimension
+d)sampling in the bitrate dimension
+e)sampling in the resistance dimension
+ANSWER:sampling in the voltage dimension
+
+QUESTION:Sampling referes to the process of sampling the time dimension
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Sampling referes to the process of sampling the amplitude dimension
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Nyquist thereom states
+a)if the highest frequency of the signal is f, we need to sample the signal 2f times per second
+b)if the highest frequency of the signal is f, we need to sample the signal f times per second
+c)if the highest frequency of the signal is f, we need to sample the signal 3f times per second
+b)if the highest frequency of the signal is f, we need to sample the signal 4f times per second
+ANSWER:if the highest frequency of the signal is f, we need to sample the signal 2f times per second
+
+QUESTION:The process of converting from analog audio to compressed binary form sampling quantization, and encoding is known as:
+a)pulse code modulation
+b)polar quantization
+c)pulse code quantization
+d)polar code modulation
+e)None of the above
+ANSWER:pulse code modulation
+
+QUESTION:A video consists of a sequence of frames
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The standard number of frames per second of a video is 25 frames per second
+a)True
+b)False
+ANSWER:False
+
+QUESTION:In North America, a common number of frames per second _________ frames per second
+a)20
+b)35
+c)25
+d)30
+e)60
+ANSWER:25
+
+QUESTION:To avoid a condition called flickering, a frame needs to be refreshed
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Pixels are also known as picture elements
+a)True
+b)False
+ANSWER:True
+
+QUESTION:For colour TV, each pixel represents 8 bits
+a)True
+b)False
+ANSWER:False
+
+QUESTION:For black and white TV, each pixel represents 8 bits
+a)True
+b)False
+ANSWER:True
+
+QUESTION:For colour TV, each pixel designates 8 bits for each primary colour (red, blue, yellow)
+a)True
+b)False
+ANSWER:False
+
+QUESTION:A video's dimensions are 1920x1080 pixels (in colour), and is played at 25 frames per second (with refreshing). This means we need a ___________ Mbps bitrate
+a)944
+b)2488
+c)1024
+d)2048
+e)1536
+ANSWER:2488
+
+QUESTION:In ______________ encoding, the differences between the samples are encoded instead of encoding all the sampled values
+a)predictive
+b)perceptual
+c)perpetual
+d)compressed
+ANSWER:predictive
+
+QUESTION:Predictive encoding is often used for creating CD-quality audio
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Predictive encoding is often used for speech
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The idea of _____________ encoding is based on the limitations of our auditory system
+a)predictive
+b)perceptual
+c)perpetual
+d)compressed
+ANSWER:perceptual
+
+QUESTION:Perceptual encoding is often used for creating CD-quality audio
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Perceptual encoding is often used for speech
+a)True
+b)False
+ANSWER:False
+
+QUESTION:MP3 uses predictive encoding
+a)True
+b)False
+ANSWER:False
+
+QUESTION:JPEG is a standard which is used to compress images
+a)True
+b)False
+ANSWER:True
+
+QUESTION:MPEG is a standard which is used to compress audio
+a)True
+b)False
+ANSWER:False
+
+QUESTION:JPEG works by
+a)changing the picture into a linear set of numbers so that redundancies can be found and removed
+b)partitioning the picture into I-frames, P-frames, and B-frames
+c)changing the colour of pixels that are similar to the colour of other pixels so they are the same
+d)changing the size of the picture so that it is smaller
+ANSWER:changing the picture into a linear set of numbers so that redundancies can be found and removed
+
+QUESTION:The steps for JPEG compression are (in order from first to last)
+a)DCT, Quantization, Data Compression
+b)Quantization, DCT, Data Compression
+c)DCT, Data Compression, Quantization
+d)Data Compression, Quantization, DCT
+e)Data Compression, DCT, Quantization
+ANSWER:DCT, Quantization, Data Compression
+
+QUESTION:Discrete cosine transformation changes a block of 64 values so that the relative relationships between pixels are kept but the redundancies are revealed 
+a)True
+b)False
+ANSWER:True
+
+QUESTION:DCT is irreversable 
+a)True
+b)False
+ANSWER:False
+
+QUESTION:In DCT, the value T(0, 0) in the transformation table is called the AC value
+a)True
+b)False
+ANSWER:False
+
+QUESTION:In DCT, the value T(0, 0) in the transformation table is called the DC value
+a)True
+b)False
+ANSWER:True
+
+QUESTION:In DCT, the value T(m, n), exluding the value T(0, 0) in the transformation table, is called the AC value
+a)True
+b)False
+ANSWER:True
+
+QUESTION:In DCT, the DC values are the changes in the colours of the pixels
+a)True
+b)False
+ANSWER:False
+
+QUESTION:In DCT, the DC value is the average value (multiplied by a constant) of the pixels
+a)True
+b)False
+ANSWER:True
+
+QUESTION:JPEG compression is called "lossy" because of the
+a)DCT phase
+b)quantization phase
+c)compression phase
+d)JPEG is not "lossy"
+ANSWER:quantization phase
+
+QUESTION:For JPEG compression, the compression phase is read
+a)in a zigzag fashion
+b)row by row
+c)column by column
+ANSWER:in a zigzag fashion
+
+QUESTION:Compressing video means spatially compressing each frame and temporally compressing a set of frames
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Spatial compression in MPEG is done with JPEG (or a modification of it)
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Spatial compression in MPEG is done with PNG
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The 3 categories that MPEG divides its frames into are
+a)I-frames, P-frames, and B-frames
+b)A-frames, B-frames, and C-frames
+c)B-frames, P-frames, and R-frames
+d)T-frames, I-frames, and B-frames
+e)window frames, door frames, and picture frames
+ANSWER:I-frames, P-frames, and B-frames
+
+QUESTION:___________ is an independent frame that is not related to any other frame
+a)I-frames
+b)P-frames
+c)B-frames
+ANSWER:I-frames
+
+QUESTION:___________ is predicted frame that is related to the preceding frame
+a)I-frames
+b)P-frames
+c)B-frames
+ANSWER:P-frames
+
+QUESTION:___________ is a bidirectional frame that is related to the preceding and following frame
+a)I-frames
+b)P-frames
+c)B-frames
+ANSWER:B-frames
+
+QUESTION:A B-frame can be related to another B-frame
+a)True
+b)False
+ANSWER:False
+
+QUESTION:A P-frame can be related to an I-frame
+a)True
+b)False
+ANSWER:True
+
+QUESTION:When using only a web server to download an audio/video file, the file can be played before the downloading has finished
+a)True
+b)False
+ANSWER:False
+
+QUESTION:When using a web server with a metafile to download an audio/video file, the media player is directly connected to the Web server for downloading the file
+a)True
+b)False
+ANSWER:True
+
+QUESTION:When using a web server with a metafile to download an audio/video file, the Web server only stores the actual audio/video file
+a)True
+b)False
+ANSWER:False
+
+QUESTION:A problem when using a web server with a metafile to download an audio/video file is that the browser and  media player both use HTTP. 
+a)True
+b)False
+ANSWER:True
+
+QUESTION:When using a web server with a media server to download an audio/video file, the media player uses the URL in the metafile to access the media server to download the file
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The protocol used to download a file from a web server to your browser should utilize TCP, in case a damaged file needs to be retransmitted
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Real-Time Streaming Protocol is an in-band control protocol
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Real-Time Streaming Protocol is an out-of-band control protocol
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Real-Time Streaming Protocol is used to
+a)control the playing of audio/video
+b)display the video in a video player
+c)compress the video so that it can be efficiently downloaded from a web server
+d)allow users to interact with another user through the Internet
+e)multicast audio/video to multiple receivers from one or more senders
+ANSWER:control the playing of audio/video
+
+QUESTION:Real-Time Streaming Protocol defines a compression scheme for audio and video
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Real-Time Streaming Protocol does not define how audio and video are encapsulated in packets for transmission over a network
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Real-Time Streaming Protocol can only be transported using UDP
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Real-Time Streaming Protocol does not restrict how the media player buffers the audio/video
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The media stream used when streaming a video from a web server is considered in-band
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Streaming ________ audio/video is multicast
+a)stored
+b)live
+ANSWER:live
+
+QUESTION:Streaming ________ audio/video is unicast
+a)stored
+b)live
+ANSWER:stored
+
+QUESTION:When using real-time interactive audio/video, the time relationship between the packets is preserved
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Jitter is the variation of packet delay
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Real-time traffic in interactive audio/video does not require a playback buffer
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Client-side _______________________ compensate for delay jitter
+a)buffering
+b)playback delay
+c)All of the above
+d)None of the above
+ANSWER:All of the above
+
+QUESTION:RTP provides which of the following features for real-time interactive audio/video
+a)mixing, multicasting, ordering
+b)ordering, unicasting, mixing
+c)timing, multicasting, retransmission
+d)multicasting, unicasting, ordering
+ANSWER:mixing, multicasting, ordering
+
+QUESTION:TCP is used for real-time interactive multimedia
+a)True
+b)False
+ANSWER:False
+
+QUESTION:What protocol is used for real-time interactive multimedia
+a)RTP
+b)UDP
+c)TCP
+d)RTP and UDP
+e)RTP and TCP
+ANSWER:RTP and UDP
+
+QUESTION:RTP does not have a delivery mechanism
+a)True
+b)False
+ANSWER:True
+
+QUESTION:RTP runs beneath UDP
+a)True
+b)False
+ANSWER:False
+
+QUESTION:RTP packet headers can have a maximum of 31 contributors because the 5-bit field allows the numbers 0-31
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The sender of a audio/video stream can change the encoding on the fly
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The initial sequence number of an RTP packet is 0, and is then incremented by 1 for each subsequent packet
+a)True
+b)False
+ANSWER:False
+
+QUESTION:RTP packets add a SSRC field, which
+a)defines the source(s)
+b)defines the receiver(s)
+c)defines the packet quality
+d)defines the packet quantity
+ANSWER:defines the source(s)
+
+QUESTION:RTCP works in conjunction with
+a)RTP
+b)UDP
+c)TCP
+d)RTSP
+ANSWER:RTP
+
+QUESTION:RTCP is used when
+a)the networking application multicasts audio/video to multiple receivers from one or more senders
+b)the sender wants the receiver to have control the playback of the audio/video
+c)the application controls who the audio/video is sent to
+d)the network congestion prevents users from playing the streamed multimedia without buffering
+ANSWER:the networking application multicasts audio/video to multiple receivers from one or more senders
+
+QUESTION:RTP and RTSP packets are distinguished from each other through the use of distinct port numbers
+a)True
+b)False
+ANSWER:False
+
+QUESTION:RTP and RTCP packets are distinguished from each other through the use of distinct port numbers
+a)True
+b)False
+ANSWER:True
+
+QUESTION:RTCP packets encapsulate chunks of audio or video
+a)True
+b)False
+ANSWER:False
+
+QUESTION:RTCP packets contain sender and/or receiver reports
+a)True
+b)False
+ANSWER:True
+
+QUESTION:RTCP __________________ are sent periodically by the active senders in a conference to report transmission and reception statistics for all RTP packets sent during the interval
+a)sender report packets
+b)receiver reception packets
+c)source description packets
+d)bye messages
+e)application-specific messages
+ANSWER:sender report packets
+
+QUESTION:RTCP __________________ are for passive participants, those that do not send RTP packets. The report informs the sender and other receivers about the quality of service.
+a)sender report packets
+b)receiver reception packets
+c)source description packets
+d)bye messages
+e)application-specific messages
+ANSWER:receiver reception packets
+
+QUESTION:RTCP __________________ can include the email address of the sender, the sender's name, and the application that generates the RTP stream
+a)sender report packets
+b)receiver reception packets
+c)source description packets
+d)bye messages
+e)application-specific messages
+ANSWER:source description packets
+
+QUESTION:RTCP __________________ are for an application that wants to use new applications not defined in the standard. It allows the definition of a new message type.
+a)sender report packets
+b)receiver reception packets
+c)source description packets
+d)bye messages
+e)application-specific messages
+ANSWER:application-specific messages
+
+QUESTION:RTCP __________________ are messages that shut down a stream
+a)sender report packets
+b)receiver reception packets
+c)source description packets
+d)bye messages
+e)application-specific messages
+ANSWER:bye messages
+
+QUESTION:RTP port numbers must be
+a)an even number
+b)an odd number
+c)a prime number
+ANSWER:an even number
+
+QUESTION:RTCP port numbers must be
+a)an even number
+b)an odd number
+c)a prime number
+ANSWER:an odd number
+
+QUESTION:RTP port numbers must immediately follow a RTCP port number
+a)True
+b)False
+ANSWER:False
+
+QUESTION:VoIP allows communication between two parties over a ___________ network
+a)packet-switched
+b)circuit-switched
+ANSWER:packet-switched
+
+QUESTION:What is session initiation protocol (SIP)?
+a)It is a standard that allows telephones on the public telephone network to talk to computers connected to the internet
+b)It is an application layer protocol that establishes, manages, and terminates a multimedia session (call)
+c)It is a method for implementing virtual private networks
+d)It lets a server and client have multiple conversations over a single TCP connection
+ANSWER:It is an application layer protocol that establishes, manages, and terminates a multimedia session (call)
+
+QUESTION:SIP is a text-based protocol
+a)True
+b)False
+ANSWER:True
+
+QUESTION:SIP defines the following messages
+a)INVITE, ACK, BYE, OPTIONS, CANCEL, REGISTER
+b)PING, RECEIVE, END, MESSAGE, CREATE, BYE
+c)CREATE, RESTORE, ACK, RECEIVE, CANCEL, INVITE
+d)HELO, ACK, WAIT, OPTIONS, BYE, CANCEL, LOGIN
+ANSWER:INVITE, ACK, BYE, OPTIONS, CANCEL, REGISTER
+
+QUESTION:Which of the following is a valid SIP address?
+a)sip:tom@201.23.45.78
+b)sip@tom:fhda.edu
+c)201.23.45.78@sip:tom
+d)fhda.edu:sip@tom
+e)?=408-864-8900&sip=tom
+ANSWER:sip:tom@201.23.45.78
+
+QUESTION:Establishing a session in SIP requires a
+a)2 way handshake
+b)3 way handshake
+c)4 way handshake
+d)5 way handshake
+ANSWER:3 way handshake
+
+QUESTION:A SIP session is terminated with the CANCEL message sent by either party
+a)True
+b)False
+ANSWER:False
+
+QUESTION:What is H.323?
+a)It is a standard that allows telephones on the public telephone network to talk to computers connected to the internet
+b)It is an application layer protocol that establishes, manages, and terminates a multimedia session (call).
+c)It defines a set of quality-of-service enhancements for wireless LAN applications through modifications to the Media Access Control (MAC) layer
+d)It is designed to compensate for the differences between traditional packet-less communications over analog lines and packet-based transmissions which are the basis for IP communications
+e)It is a standard protocol for controlling the elements of a physically decomposed multimedia gateway, which enables separation of call control from media conversion
+ANSWER:It is a standard that allows telephones on the public telephone network to talk to computers connected to the internet
+
+QUESTION:What is a gateway?
+a)It connects the Internet to the telephone network
+b)It is a running instance of an application capable of accepting requests from the client and giving responses accordingly
+c)It is an endpoint of an inter-process communication flow across a computer network
+ANSWER:It connects the Internet to the telephone network
+
+QUESTION:Which of the following are characteristic types attributed to flow
+a)Reliability
+b)Delay
+c)Jitter
+d)Bandwidth
+e)All of the above
+ANSWER:All of the above
+
+QUESTION:Network loss happens when the packet arrives too late for playback at the receiver
+a)True
+b)False
+ANSWER:False
+
+QUESTION:End-to-End Delay loss happens when the packet arrives too late for playback at the receiver
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Multimedia networking applications are typically highly sensitive to delay
+a)True
+b)False
+ANSWER:True
+
+QUESTION:_____________ is/are needed for routers to distingush between different classes
+a)Packet marking
+b)Timestamps
+c)Network marking
+d)Packet naming
+ANSWER:Packet marking
+
+QUESTION:_____________ is a technique used for controlling errors in data transmission over unreliable or noisy communication channels
+a)Interleaving
+b)Forward-error correction
+c)Network smoothing
+d)Packet rescue
+e)Quantization
+ANSWER:Forward-error correction
+
+QUESTION:A tradeoff with interleaving is that when we increase the value of n, there is less bandwidth waste and a higher probability that 2 or more chunks will be lost
+a)True
+b)False
+ANSWER:False
+
+QUESTION:One technique for forward-error correction is for every group of N chunks create redundant chunk by exclusive ORing N original chunks
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Interleaving is a technique where the idea is to send a lower quality audio stream as the redundant information with the nominal stream
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Interleaving is a technique where the sender re-sequences units of audio data before transmission, so that originally adjacent units are separated by a certain distance in the transmitted stream
+a)True
+b)False
+ANSWER:True
+
+QUESTION:An advantage for interleaving is that it decreases latency
+a)True
+b)False
+ANSWER:False
+
+QUESTION:______________ is where packets wait in a buffer (queue) until the node (router or switch) is ready to process them.
+a)FIFO queuing
+b)Priority queuing
+c)Weighted fair queuing
+ANSWER:FIFO queuing
+
+QUESTION:______________ is where packets are first assigned to a priority class. Each priority class has its own queue. The packets in the highest-priority queue are processed first. Packets in the lowest-priority queue are processed last
+a)FIFO queuing
+b)Priority queuing
+c)Weighted fair queuing
+ANSWER:Priority queuing
+
+QUESTION:______________ is where packets are assigned to different classes and admitted to different queues. The system processes packets in each queue in a round-robin fashion with the number of packets selected from each queue based on the corresponding weight.
+a)FIFO queuing
+b)Priority queuing
+c)Weighted fair queuing
+ANSWER:Weighted fair queuing
+
+QUESTION:With priority queuing, the system does not stop serving a queue until it is empty
+a)True
+b)False
+ANSWER:True
+
+QUESTION:What is traffic shaping?
+a)A mechanism to control the amount and the rate of the traffic sent to the network
+b)A way for the system to reduce the packet flow by preventing packets from entering specified subnets
+c)A feature where a network creates fake packets to fill router buffers to prevent new packets from arriving
+d)A mechanism where packets are scheduled to flow through a network at specified times
+ANSWER:A mechanism to control the amount and the rate of the traffic sent to the network
+
+QUESTION:What is a "leaky bucket"
+a)It shapes bursty traffic into fixed-rate traffic by averaging the data rate
+b)A mechanism that slowly eliminates packets from the network that have been looping continuously between routers
+c)A tool for a web server to allow only 1 client at a time to download a audio/video file
+d)A method where a packet is split up into individual bits, and sent across a network 1 bit at a time
+ANSWER:It shapes bursty traffic into fixed-rate traffic by averaging the data rate
+
+QUESTION:A leaky bucket may drop the packets if the bucket is full.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The token bucket algorithm allows idle hosts to accumulate credit for the future in the form of tokens
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The ____________ allows bursty traffic at a regulated maximum rate
+a)token bucket
+b)leaky bucket
+c)half bucket
+d)maximum bucket
+ANSWER:token bucket
+
+QUESTION:What is a computer that can act as both a server and/or client?
+a)peer
+b)router
+c)seeder
+d)dedicated server
+e)leech
+ANSWER:peer
+
+QUESTION:A P2P system should consist of at least two or more peers
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Peers should be able to exchange resources directly between themselves
+a)True
+b)False
+ANSWER:True
+
+QUESTION:P2P systems cannot utilize dedicated servers
+a)True
+b)False
+ANSWER:False
+
+QUESTION:A "pure" P2P system is
+a)a P2P system without dedicated servers
+b)a P2P system that prevents leechers from using too much bandwidth
+c)a P2P system with dedicated servers
+d)a P2P system that uses a dedicated web server, along with a media server to stream audio/video
+ANSWER:a P2P system without dedicated servers
+
+QUESTION:Which of the following is not a benefit of P2P systems?
+a)Workload is spread to all peers
+b)Maximize system utilization
+c)No central point of failure
+d)Scalability
+e)Has a strong security system
+ANSWER:Has a strong security system
+
+QUESTION:It is easier to enforce standards in P2P systems compared to client-server systems
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Which of the following is not a P2P topology?
+a)Centralized
+b)Ring
+c)Hierarchical
+d)Decentralized
+e)Hybrid
+f)Tree
+ANSWER:Tree
+
+QUESTION:Which of the following is the most popular P2P topology?
+a)Centralized
+b)Ring
+c)Hierarchical
+d)Decentralized
+e)Hybrid
+ANSWER:Centralized
+
+QUESTION:Which P2P topology has a one centralized server with many connected clients?
+a)Centralized
+b)Ring
+c)Hierarchical
+d)Decentralized
+e)Hybrid
+ANSWER:Centralized
+
+QUESTION:A single centralized server is usually able to handle high clients load
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Which P2P topology uses a cluster of machines arranged in a ring to act as distributed servers?
+a)Centralized
+b)Ring
+c)Hierarchical
+d)Decentralized
+e)Hybrid
+ANSWER:Ring
+
+QUESTION:Ring systems are generally built on the assumption that the machines are all nearby on the network
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Which P2P topology has a similar structure to the Domain Name Service (DNS)?
+a)Centralized
+b)Ring
+c)Hierarchical
+d)Decentralized
+e)Hybrid
+ANSWER:Hierarchical
+
+QUESTION:Which P2P topology has a similar structure to the Network Time Protocol (NTP)?
+a)Centralized
+b)Ring
+c)Hierarchical
+d)Decentralized
+e)Hybrid
+ANSWER:Hierarchical
+
+QUESTION:Which P2P topology allows all peers to communicate symmetrically, and have equal roles?
+a)Centralized
+b)Ring
+c)Hierarchical
+d)Decentralized
+e)Hybrid
+ANSWER:Decentralized
+
+QUESTION:Gnutella is an example of which P2P topology?
+a)Centralized
+b)Ring
+c)Hierarchical
+d)Decentralized
+e)Hybrid
+ANSWER:Decentralized
+
+QUESTION:Which of the following is a combination of several P2P topologies into one system?
+a)Centralized
+b)Ring
+c)Hierarchical
+d)Decentralized
+e)Hybrid
+ANSWER:Hybrid
+
+QUESTION:Which hybrid topology has a ring of servers acting as the main server, with many connected clients?
+a)Centralized + Ring
+b)Centralized + Hierarchical
+c)Decentralized + Ring
+d)Centralized + Decentralized
+e)Hierarchical + Ring
+ANSWER:Centralized + Ring
+
+QUESTION:Which hybrid topology has a set of supernodes, each with their own set of connected peers?
+a)Centralized + Ring
+b)Centralized + Hierarchical
+c)Decentralized + Ring
+d)Centralized + Decentralized
+e)Hierarchical + Ring
+ANSWER:Centralized + Decentralized
+
+QUESTION:Which of the following is not an attribute of a centralized P2P topology?
+a)Managable
+b)Coherent
+c)Secure
+d)Extensible
+ANSWER:Extensible
+
+QUESTION:Which of the following is an attribute of a centralized P2P topology?
+a)Extensible
+b)Fault Tolerant
+c)Lawsuit-proof
+d)Coherent
+ANSWER:Coherent
+
+QUESTION:Which of the following is not an attribute of a ring P2P topology?
+a)Managable
+b)Coherent
+c)Secure
+d)Fault Tolerant
+e)Lawsuit-proof
+ANSWER:Lawsuit-proof
+
+QUESTION:Which of the following is an attribute of a ring P2P topology?
+a)Extensible
+b)Fault Tolerant
+c)Scalable
+ANSWER:Scalable
+
+QUESTION:Which of the following is not an attribute of a decentralized P2P topology?
+a)Extensible
+b)Lawsuit-proof
+c)Managable
+d)Fault Tolerant
+ANSWER:Managable
+
+QUESTION:Which of the following is an attribute of a decentralized P2P topology?
+a)Managable
+b)Coherent
+c)Secure
+d)Extensible
+ANSWER:Coherent
+
+QUESTION:Which of the following is not an attribute of a centralized + ring hybrid P2P topology?
+a)Managable
+b)Coherent
+c)Secure
+d)Fault Tolerant
+e)Scalable
+f)Extensible
+ANSWER:Extensible
+
+QUESTION:Which of the following is an attribute of a centralized + ring hybrid P2P topology?
+a)Extensible
+b)Fault Tolerant
+c)Lawsuit-proof
+ANSWER:Fault Tolerant
+
+QUESTION:The centralized + ring hybrid P2P topology is a common architecture for web applications
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Which of the following is not an attribute of a centralized + decentralized hybrid P2P topology?
+a)Managable
+c)Lawsuit-proof
+d)Fault Tolerant
+f)Extensible
+ANSWER:Managable
+
+QUESTION:Which of the following is an attribute of a centralized + decentralized hybrid P2P topology?
+a)Managable
+b)Secure
+c)Lawsuit-proof
+ANSWER:Lawsuit-proof
+
+QUESTION:Which of the following is the best topology for P2P networks?
+a)Centralized
+b)Ring
+c)Hierarchical
+d)Decentralized
+e)Centralized + Ring
+f)Centralized + Decentralized
+ANSWER:Centralized + Decentralized
+
+QUESTION:After Napster, new file-sharing P2P systems bypass the legal problems by not holding a central directory
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Which of the following is not a Gnutella protocol message?
+a)PING
+b)PONG
+c)QUERY
+d)RESPONSE
+e)PUSHREQUEST
+f)ACK
+ANSWER:ACK
+
+QUESTION:Which of the following is a P2P protocol which allows peers to download a file from a group of other peers
+a)BitTorrent
+b)Gnutella
+c)Napster
+d)Limewire
+e)TPB
+ANSWER:BitTorrent
+
+QUESTION:A torrent is a set of all peers that take part in downloading a file using the BitTorrent protocol
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The set of all peers that takes part in a torrent is refered to as a(n) _________________
+a)swarm
+b)seed
+c)leech
+d)tracker
+e)overlay
+ANSWER:swarm
+
+QUESTION:A peer in a swarm that has the complete content file is called a(n) _________________
+a)swarm
+b)seed
+c)leech
+d)tracker
+e)overlay
+ANSWER:seed
+
+QUESTION:A peer that has only part of the file and wants to download the rest is called a(n) _________________
+a)swarm
+b)seed
+c)leech
+d)tracker
+e)overlay
+ANSWER:leech
+
+QUESTION:A swarm is a combination of seeds and trackers
+a)True
+b)False
+ANSWER:False
+
+QUESTION:In BitTorrent, the __________ group is the list of peers that the current peer has concurrently connected to; it continuously uploads and downloads pieces from this group.
+a)unchoked
+b)choked
+ANSWER:unchoked
+
+QUESTION:In BitTorrent, the __________ group is the list of neighbours that the peer is not currently connected to but may connect to in the future
+a)unchoked
+b)choked
+ANSWER:choked
+
+QUESTION:In BitTorrent, optimistic choking is when the system promotes a single interested peer every 30 seconds, regardless of its uploading rate, from the choked group and flags it as unchoked
+a)True
+b)False
+ANSWER:True
+
+QUESTION:In BitTorrent, the strategy "common-last" is when a peer tries to first download the pieces with the fewest repeated copies amoung the neighbours
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Which of the following is not a common feature of P2P applications
+a)Protocols are constructed at the application layer
+b)Peers have a unique identifier
+c)P2P protocols support some type of message-routing capability
+d)Applications mask the IP address of peers so they cannot be tracked
+ANSWER:Applications mask the IP address of peers so they cannot be tracked
+
+QUESTION:A(n) ______________________ is the collection of peer connections in a P2P network
+a)overlay
+b)swarm
+c)tracker
+d)torrent
+e)seed
+ANSWER:overlay
+
+QUESTION:Which of the following is not an attribute of unstructured networks?
+a)The nodes are linked randomly
+b)Searching is inefficient
+c)Queries may not be resolved
+d)Uses predefined set of rules to link nodes
+ANSWER:Uses predefined set of rules to link nodes
+
+QUESTION:A structured P2P network uses a predefined set of rules to link nodes so that a query can be effectively and efficiently resolved
+a)True
+b)False
+ANSWER:True
+
+QUESTION:A common technique used in unstructured P2P networks is the distributed hash table (DHT)
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The address space of a distributed hash table ranges from
+a)0 to 2^m - 1
+b)1 to 2^m - 1
+c)0 to 2^m
+d)1 to 2^m
+ANSWER:0 to 2^m - 1
+
+QUESTION:A distributed hash table distributes data items among a set of nodes according to some predefined rules
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The addresses in a distributed hash table are distributed in a counter-clockwise direction
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Most DHT implementations use a value of m equal to
+a)256
+b)128
+c)160
+d)150
+e)144
+ANSWER:160
+
+QUESTION:The _______________ method of storing objects in the DHT address space stores the node whose ID is "closest" to the key in the ring
+a)direct
+b)indirect
+ANSWER:direct
+
+QUESTION:The _______________ method of storing objects in the DHT address space stores the physical object and the reference to the object in different locations (peers).
+a)direct
+b)indirect
+ANSWER:indirect
+
+QUESTION:_______________ overlays in a P2P network organize nodes into a random graph, and then use floods/random walks to discover data stored by overlay nodes
+a)unstructured
+b)structured
+ANSWER:unstructured
+
+QUESTION:Which unstructured overlay algorithm prevents messages from circulating endlessly by attaching message identifiers/TTL values (and does not alter the TTL if the query fails)
+a)Flooding
+b)Expanding ring
+c)Random walk
+d)Pastry
+e)Dijkstra
+ANSWER:Flooding
+
+QUESTION:Which unstructured overlay algorithm increases the TTL value by a small amount if the query fails?
+a)Flooding
+b)Expanding ring
+c)Dijkstra
+d)Pastry
+e)Random walk
+ANSWER:Expanding ring
+
+QUESTION:Which unstructured overlay algorithm randomly traverses nodes, and decrements a TTL at each hop?
+a)Flooding
+b)Expanding ring
+c)Dijkstra
+d)Pastry
+e)Random walk
+ANSWER:Random walk
+
+QUESTION:Random walk queries in an unstructured overlay must be carried out sequentially
+a)True
+b)False
+ANSWER:False
+
+QUESTION:_______________ overlays in a P2P network combines a specific geometrical structure with appropriate routing and maintenance mechanisms
+a)unstructured
+b)structured
+ANSWER:structured
+
+QUESTION:Which of the following is not a structured overlay protocol?
+a)Kademlia
+b)Chord
+c)Pastry
+d)Finger
+ANSWER:Finger
+
+QUESTION:What is a Distributed Object Location and Routing (DOLR) system?
+a)A P2P system that uses key-based routing
+b)A distributed naming system for resources connected to the internet
+c)A method of routing resources from a centralized server to a client
+d)A client-server system which distributes files evenly across the server
+ANSWER:A P2P system that uses key-based routing
+
+QUESTION:For the Chord protocol, the closest peer with N >= k hosts the value (k, v), where k is the hash of the data name, and v is the information about the peer that has the actual object
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The Pastry protocol utilizes a finger table to resolve a query/lookup
+a)True
+b)False
+ANSWER:False
+
+QUESTION:In a finger table for the Chord protocol, each node needs to know about m successor nodes and one predecessor node
+a)True
+b)False
+ANSWER:True
+
+QUESTION:What is the successor of a target key in a finger table? (N=current node, i=record number starting at 1)
+a)Successor(N + 2^(i - 1))
+b)Successor(N + 2^(i + 1))
+c)Successor(N - 2^(i - 1))
+d)Successor(N - 2^(i + 1))
+ANSWER:Successor(N + 2^(i - 1))
+
+QUESTION:In a finger table, a node is responsible for all keys less than the current node, but greater than the preceeding node (i.e. N > K > N - 1)
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Which Chord operation is used to find where an object is located among the available peers in the ring?
+a)Lookup
+b)Stabilize
+c)Fix_Finger
+d)Join
+e)Leave
+ANSWER:Lookup
+
+QUESTION:Which Chord operation is used to validate its information about its successor, and let the success validate its information about its predecessor?
+a)Lookup
+b)Stabilize
+c)Fix_Finger
+d)Join
+e)Leave
+ANSWER:Stabilize
+
+QUESTION:Which Chord operation is used to update a finger table?
+a)Lookup
+b)Stabilize
+c)Fix_Finger
+d)Join
+e)Leave
+ANSWER:Fix_Finger
+
+QUESTION:In the Chord protocol, when a node leaves, the data/references must be duplicated on other nodes
+a)True
+b)False
+ANSWER:True
+
+QUESTION:What is a common value for m in the Pastry protocol?
+a)256
+b)128
+c)160
+d)150
+e)144
+ANSWER:128
+
+QUESTION:In the Pastry protocol, a key is stored in the node whose identifier is numerically closest to the key
+a)True
+b)False
+ANSWER:True
+
+QUESTION:In the Pastry protocol, the number of rows in the routing table is equal to
+a)m / b
+b)m * b
+c)b / m
+d)2^b
+ANSWER:m / b
+
+QUESTION:In the Pastry protocol, the number of columns in the routing table is equal to
+a)m / b
+b)m * b
+c)b / m
+d)2^b
+ANSWER:2^b
+
+QUESTION:In the Pastry protocol, a cell in the routing table can contain multiple values
+a)True
+b)False
+ANSWER:False
+
+QUESTION:In the Pastry protocol, the leaf set is a list of IDs that are numerically larger than the current node ID
+a)True
+b)False
+ANSWER:False
+
+QUESTION:In the Pastry protocol, the leaf set contains _________ identifiers
+a)m / b
+b)m * b
+c)b / m
+d)2^b
+ANSWER:2^b
+
+QUESTION:Which of the following structured overlay protocols routes messages based on the distance between the nodes?
+a)Kademlia
+b)Chord
+c)Pastry
+ANSWER:Kademlia
+
+QUESTION:In the Kademlia protocol, the distance between nodes is determined by bitwise
+a)XOR
+b)XAND
+c)OR
+d)AND
+ANSWER:XOR
+
+QUESTION:In the Kademlia protocol, if m=5, how many subtrees does a node divide the binary tree into?
+a)5
+b)32
+c)64
+d)25
+ANSWER:5
+
+QUESTION:The Kademlia protocol, requires that each row in the routing table keeps at least up to __________ nodes from the corresponding subtree
+a)5
+b)10
+c)15
+d)20
+e)25
+ANSWER:20
+
+QUESTION:In Kademlia, each row is referred to as a
+a)k-bucket
+b)n-bucket
+c)subrecord
+d)finger
+ANSWER:k-bucket
+
+QUESTION:_____________ refers to what Alice does with the message and the key to obtain a ciphertext
+a)Key generation
+b)Encryption
+c)Decryption
+d)Signing
+ANSWER:Encryption
+
+QUESTION:_____________ refers to what Bob does with the ciphertext and the key to obtain the plaintext
+a)Key generation
+b)Encryption
+c)Decryption
+d)Signing
+ANSWER:Decryption
+
+QUESTION:_____________ refers to what Alice and Bob do to create the shared secret key
+a)Key generation
+b)Encryption
+c)Decryption
+d)Signing
+ANSWER:Key generation
+
+QUESTION:What is cryptology?
+a)The art and science of making and breaking "secret codes"
+b)Making "secret codes"
+c)Breaking "secret codes"
+d)All of the above
+ANSWER:The art and science of making and breaking "secret codes"
+
+QUESTION:What is cryptography?
+a)The art and science of making and breaking "secret codes"
+b)Making "secret codes"
+c)Breaking "secret codes"
+d)All of the above
+ANSWER:Making "secret codes"
+
+QUESTION:What is cryptoanalysis?
+a)The art and science of making and breaking "secret codes"
+b)Making "secret codes"
+c)Breaking "secret codes"
+d)All of the above
+ANSWER:Breaking "secret codes"
+
+QUESTION:What is crypto?
+a)The art and science of making and breaking "secret codes"
+b)Making "secret codes"
+c)Breaking "secret codes"
+d)All of the above
+ANSWER:All of the above
+
+QUESTION:A symmetric key cryptosystem uses ____________ to encrypt as to decrypt
+a)the same key
+b)a public key and a private key
+c)no keys
+ANSWER:the same key
+
+QUESTION:A public key cryptosystem uses ____________ to encrypt as to decrypt
+a)the same key
+b)a public key and a private key
+c)no keys
+ANSWER:a public key and a private key
+
+QUESTION:A public key cryptosystem uses a private key to encrypt and a public key to decrypt
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Polynomial time is considered infeasible
+a)True
+b)False
+ANSWER:False
+
+QUESTION:What is Kerckhoff's Principle?
+a)Crypto algorithms are not a secret
+b)The algebraic sum of currents in a network of conductors meeting at a point is zero
+c)Public key encryption is more secure than symmetric key encryption
+d)The cryptosystem should depend on the secrecy of the algorithm
+ANSWER:Crypto algorithms are not a secret
+
+QUESTION:In Ouda's Key Crypto notation, P refers to
+a)plaintext block
+b)cipertext block
+c)signature
+d)public key
+e)private key
+ANSWER:plaintext block
+
+QUESTION:In Ouda's Key Crypto notation, C refers to
+a)plaintext block
+b)cipertext block
+c)signature
+d)public key
+e)private key
+ANSWER:cipertext block
+
+QUESTION:In cryptography, C = D(P, K)
+a)True
+b)False
+ANSWER:False
+
+QUESTION:In cryptography, P = D(E(P, K), K)
+a)True
+b)False
+ANSWER:True
+
+QUESTION:In Ouda's Key Crypto notation, [M]_Alice refers to
+a)signing a message with Alice's private key
+b)signing a message with Alice's public key
+c)encrypting a message with Alice's private key
+d)encrypting a message with Alice's public key
+ANSWER:signing a message with Alice's private key
+
+QUESTION:In Ouda's Key Crypto notation, {M}_Alice refers to
+a)signing a message with Alice's private key
+b)signing a message with Alice's public key
+c)encrypting a message with Alice's private key
+d)encrypting a message with Alice's public key
+ANSWER:encrypting a message with Alice's public key
+
+QUESTION:In cryptography, {[M]_Alice}_Alice = M
+a)True
+b)False
+ANSWER:True
+
+QUESTION:In cryptography, {[M]_Bob}_Alice = M
+a)True
+b)False
+ANSWER:False
+
+QUESTION:A cryptographic nonce is an arbitrary number that can be used multiple times
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Timestamps in cryptography must account for clock skew
+a)True
+b)False
+ANSWER:True
+
+QUESTION:For entity authentication with a public key signature, which key pair is not needed?
+a)Encryption/decryption key pair
+b)Signing/verifying key pair
+c)Key exchange key pair
+d)Session key pair
+ANSWER:Session key pair
+
+QUESTION:One session key is used per session when it is required
+a)True
+b)False
+ANSWER:True
+
+QUESTION:What is perfect forward secrecy?
+a)A type of encryption where a compromise of a private key can't be used to decrypt past communications
+b)An encryption method where each bit or character of the plaintext is encrypted by combining it with the corresponding bit or character from the pad using modular addition
+c)A type of encryption where one of the encryption keys are private and the other is public
+d)A technique used to secure both the public and private keys when communicating insecurely
+ANSWER:A type of encryption where a compromise of a private key can't be used to decrypt past communications
+
+QUESTION:How can Alice and Bob ensure perfect forward secrecy?
+a)Encrypt with the session key
+b)Encrypt with the public key
+c)Encrypt with the private key
+d)Encrypt with the one time pad
+ANSWER:Encrypt with the session key
+
+QUESTION:What is Diffie-Hellman?
+a)A specific method of securely exchanging cryptographic keys over a public channel
+b)A method of factoring an RSA key
+c)An authenticated protocol for key agreement
+d)An augmented password-authenticated key agreement
+ANSWER:A specific method of securely exchanging cryptographic keys over a public channel
+
+QUESTION:What is a man in the middle attack?
+a)An attack where the attacker secretly relays and possibly alters the communication between two parties who believe they are directly communicating with each other
+b)An attack where the attacker uses expired session keys to decrypt messages
+c)An attack in which each possibility is tried until success is obtained
+d)A known plaintext attack against double encryption with two separated keys where the attacker encrypts a plaintext with a key and "decrypts" the original ciphertext with another key and hopes to get the same value.
+e)An attack where the adversary precomputes a look-up table of values used to crack encryption or passwords
+ANSWER:An attack where the attacker secretly relays and possibly alters the communication between two parties who believe they are directly communicating with each other
+
+QUESTION:The socket layer lives between the
+a)application and transport layers
+b)transport and network layers
+c)network and link layers
+d)application and network layers
+ANSWER:application and transport layers
+
+QUESTION:___________ is a standard security technology for establishing an encrypted link between a server and a client
+a)SSL
+b)RSA
+c)SHA-2
+d)TCP
+e)WTLS
+ANSWER:SSL
+
+QUESTION:A ___________ is a small data file that digitally binds a cryptographic key to an organization's details. It allows secure connections from a web server to a browser
+a)SSL certificate
+b)private key
+c)public key
+d)RSA certificate
+ANSWER:SSL certificate

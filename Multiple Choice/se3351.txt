@@ -1,0 +1,1460 @@
+QUESTION:Which of the following is considered to be a major attribute of a project?
+a)Deliverables
+b)Lessons learned
+c)Stage gate
+d)Time frame
+e)Baseline plan
+ANSWER:Time frame
+
+QUESTION:Which of the following company variables can influence the selection of IT projects?
+a)Culture
+b)Environment
+c)Politics
+d)Strategy
+e)All of the above
+ANSWER:All of the above
+
+QUESTION:The triple constraint relationship implies that owners, stakeholders and sponsors must communicate effectively to help ensure project success.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The triple constraint relationship that we discussed in class refers to:
+a)owners, stakeholders and sponsors.
+b)time, money and people.
+c)scope schedule, and budgets.
+d)subject matter experts (SME), technical experts (TE) and project managers (PM).
+e)internal risks, external risks and assumptions.
+ANSWER:scope schedule, and budgets.
+
+QUESTION:Having subject matter experts on a development team is more productive than having technical people learn the subject matter that comprises the project.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Assumptions are what we use to estimate scope, schedule and budget and to assess the risks of the project.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The roles and their related skills commonly needed for IT projects include all of the following except:
+a)End Users
+b)Project Managers
+c)Project Sponsors
+d)Subject Matter Experts
+e)Technical Experts
+ANSWER:End Users
+
+QUESTION:According to the CHAOS study, most IT projects are completed on time but over budget.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:According to the CHAOS study, an impaired project is one that is cancelled before completion.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:According to the CHAOS study, a challenged project is defined as one that:
+a)fails to find a sponsor to champion its cause in the organization.
+b)is cancelled before completion.
+c)is completed but is late, over budget, and not fully featured.
+d)is started, but later cancelled because of a lack of available resources.
+e)fails as a result of unrealistic expectations lack of appropriate technical skills
+ANSWER:is completed but is late, over budget, and not fully featured.
+
+QUESTION:The Socio-Technical Approach has been adopted by many organizations because historically, more attention has been placed on the societal effects of IT projects than the technical aspects.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Using project management principles as part of a methodology for systems development places a greater emphasis on team selection for project success.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Only the most successful projects are likely to lead to best practices.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The software crisis as reported by the CHAOS study focused on the fact that:
+a)computer processing power has increased significantly more than our ability to develop software applications to exploit that power.
+b)although the 1970's and 1980's were marked by large numbers of impaired projects, the 1990's saw a reversal of this trend.
+c)development costs have risen so much that the number of new IT projects undertaken has fallen sharply.
+d)just over one half of IT projects that are undertaken are completed and most of them were over budget and over schedule.
+e)since the telecommunications collapse, the opportunities for software developers have been dramatically reduced.
+ANSWER:just over one half of IT projects that are undertaken are completed and most of them were over budget and over schedule.
+
+QUESTION:The number one contributing factor to project success as reported by the CHAOS study is:
+a)innovative, cutting edge technology.
+b)clear vision & objectives.
+c)competent staff.
+d)user involvment.
+e)proper planning.
+ANSWER:user involvment.
+
+QUESTION:All of following are factors for impaired projects reported by the CHAOS study except:
+a)incomplete requirements.
+b)lack of user involvement.
+c)lack of resources.
+d)changing requirement specifications.
+e)lack of subject matter experts (SME).
+ANSWER:lack of subject matter experts (SME).
+
+QUESTION:A lack of user input or involvement is one of the leading causes of impaired or challenged projects.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:A methodology provides a strategic-level plan for managing and controlling IT projects.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:A business case is a deliverable that documents the project's goal as well as several alternatives or options
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Project Management processes include scope, schedule, budget and quality
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The SDLC (systems development life cycle) is a deliverable from the project charter.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The project charter is a key deliverable for the second phase of the IT project methodology.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:For the sake of efficiency and unity of purpose and direction, it is usually advisable to have the project manager take sole responsibility for developing the business case
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The focus of "the conceptualize and initialize" phase is to determine whether a proposed project should and can be done.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:An Information Technology Project Methodology (ITPM).
+a)is an alternative metric for deciding between competing projects.
+b)is a six-phase program described by PMBOK and is offered as a generally accepted industrypractice.
+c)is specified by parameters of the business case.
+d)is a set of deliverables derived from the various PLC phases.
+e)is a strategic-level plan for managing and controlling IT projects.
+ANSWER:is a strategic-level plan for managing and controlling IT projects.
+
+QUESTION:Scope and schedule are examples of:
+a)Project Management processes.
+b)Project Management tools.
+c)PMBOK areas of knowledge.
+d)Project Management objectives.
+e)Project Management infrastructure.
+ANSWER:Project Management objectives.
+
+QUESTION:The first stage of the IT project methodology focuses on:
+a)choosing the project team members.
+b)defining the overall goal of the project.
+c)conceptualizing alternative approaches to project development.
+d)identifying the project's scope.
+e)identifying project managers and sponsors.
+ANSWER:defining the overall goal of the project.
+
+QUESTION:The MOV should be adjusted at each phase of a project to align with the realities of project execution.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Feasibility focuses on what can go wrong and what must go right.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Feasibility focuses on whether a particular alternative is doable and worth doing.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The MOV should explicitly name the technology that will support the IT project.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Which of the following statements about the business case is NOT true:
+a)A business case provides an analysis of feasibility.
+b)A business case provides senior management with sufficient information to fund a project.
+c)A business case provides details of possible impacts, costs and benefits.
+d)A business case provides a project budget.
+e)A business case may be a large formal document.
+ANSWER:A business case provides a project budget.
+
+QUESTION:The Business case is the key deliverable for:
+a)Phase 1
+b)Phase 2
+c)Phase 3
+d)Phase 4
+e)Phase 5
+ANSWER:Phase 1
+
+QUESTION:Which of the following was NOT given as a reason for recruiting a core team to develop the business case?
+a)enhanced credibility
+b)alignment with organizational goals
+c)access to real costs
+d)early identification of project team
+e)shared sense of ownership
+ANSWER:early identification of project team
+
+QUESTION:The overall goal and measure of project success is:
+a)the project's MOV.
+b)the project's NPV.
+c)the project's technical competency.
+d)the project's adherence to budget and schedule.
+e)the project's end-user acceptance.
+ANSWER:the project's MOV.
+
+QUESTION:All of the following are steps in developing the project MOV except:
+a)Identify the available organizational resources.
+b)Identify the desired value of the IT project.
+c)Develop an appropriate metric.
+d)Set a time frame for achieving MOV.
+e)Verify and get agreement from project stakeholders.
+ANSWER:Identify the available organizational resources.
+
+QUESTION:The total cost of ownership (TCO) includes only the direct or upfront costs and ongoing expenditures.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The total benefits of ownership (TBO) should address the benefits of an alternative over its useful life.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:All cash flows over the useful life of a project alternative must be included in the payback method of analysis.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:A significant deficiency of the payback method of analyzing alternatives is the failure to account for the time value of money.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The answer to a breakeven analysis is almost always expressed in a currency metric.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The project life cycle phases should have at least one deliverable at the end of each phase.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:A baseline plan defines the agreed upon scope, schedule, and budget of a project.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:A system that is developed using the project life cycle methodologies is called a legacy system
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The correct sequence of stages in the generic project life cycle is:
+a)Planning, analysis, design, implementation, maintenance and support of the project.
+b)Definition, planning, execution, closing, and evaluation of the project.
+c)Ask of the project: what, why, how, who, how long, how much.
+d)Planning, analysis, design, build, and implement the project.
+e)Needs analysis, information gathering, construction of alternatives, choice and execution of best alternative
+ANSWER:Definition, planning, execution, closing, and evaluation of the project.
+
+QUESTION:The waterfall method is most closely associated with:
+a)spiral development.
+b)extreme programming.
+c)RAD development.
+d)structured development
+ANSWER:structured development
+
+QUESTION:Which of the following is not a characteristic of prototyping?
+a)It is iterative.
+b)It is usually deployed when developing high volume transaction processing systems.
+c)It is usually deployed when requirements of the new system are difficult to define or not fully understood.
+d)It is one of the RAD approaches.
+ANSWER:It is usually deployed when developing high volume transaction processing systems.
+
+QUESTION:The following are PMBOK knowledge areas except:
+a)Project Integration Management.
+b)Project Scope Management.
+c)Project Cost Management.
+d)Project Risk Management.
+e)Project Research Management.
+ANSWER:Project Research Management.
+
+QUESTION:The Guide to the Project Management Body of Knowledge provides a basis for identifying and describing the generally accepted principles of project management.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The project life cycle is really a subset of the systems development life cycle
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Prototyping is both iterative in nature and a rapid application development approach
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The waterfall method is one of the structured approaches to systems development.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The most common product life cycle in IT is the Systems Development Life Cycle.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:A tangible and verifiable product of work is called a(n):
+a)stage gate.
+b)intermediate product.
+c)baseline product.
+d)deliverable.
+e)asset.
+ANSWER:deliverable.
+
+QUESTION:For most projects, the effort in terms of cost and staffing is:
+a)high at the start and then levels off at a reduced level.
+b)low at the start and then rises steadily until the end.
+c)relatively stable through out the project.
+d)low at the start, then increases, then decreases at the end.
+e)high at the start, then decreases, then increases at the end.
+ANSWER:low at the start, then increases, then decreases at the end.
+
+QUESTION:The project charter and project plan make up the project's strategic plan
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Development of the project charter is the responsibility of the project sponsor.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The project charter serves as an agreement between the project sponsor and the project team.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Identifying the project stakeholders is an important element of the project charter.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The project charter:
+a)and the project plan should be developed together.
+b)and the project plan are the same document.
+c)and the project plan are developed in the scope document.
+d)is summarized in the project plan.
+e)is developed by the project sponsor.
+ANSWER:and the project plan should be developed together.
+
+QUESTION:The project's charter and project plan represents:
+a)a review of the business case
+b)a strategic plan.
+c)a tactical plan.
+d)a budgeting technique.
+e)none of the above
+ANSWER:a tactical plan.
+
+QUESTION:Things that must go right in order for the project plan to be completed are called:
+a)phases.
+b)constraints.
+c)assumptions.
+d)metrics.
+e)essentials.
+ANSWER:assumptions.
+
+QUESTION:The project scope must be defined before the project MOV can be developed
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Breaking a project down into phases increases the complexity and project risk
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Performing tasks in parallel often provides an opportunity to shorten the overall length of the project
+a)True
+b)False
+ANSWER:True
+
+QUESTION:A kick-off meeting is often held to develop the project plan
+a)True
+b)False
+ANSWER:False
+
+QUESTION:In general, the project plan and project charter should be developed together
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Which of the following statements are true?
+a)Milestones are logical units of work.
+b)Baseline plans are approved project plans.
+c)All tasks are linear, i.e. have to be completed in a particular sequence.
+d)The kick-off meeting typically begins the planning phase of a project.
+e)MOV are readily changed through change control processes.
+ANSWER:Baseline plans are approved project plans.
+
+QUESTION:Many organizations have a kick-off meeting because?
+a)It brings closure to the planning phase of the project
+b)It signals the initiation of the next phase of the IT project methodology
+c)It communicates to everyone what the project is about
+d)It can energize the stakeholders and get everyone excited about working on the project
+e)All of the above
+ANSWER:All of the above
+
+QUESTION:A project's scope is primarily a list of resources available to the project team.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:PMBOK defines scope as the product or services to be provided by the project and includes all of the project deliverables.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:According to the PMBOK area of scope management, one of the processes is scope planning which means ensuring that authority and resources are committed to developing a scope management plan.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Scope definition defines the project boundary
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Scope verification confirms the scope is complete and accurate.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Scope change control procedures protect the scope boundary from expanding as a result of increasing featurism
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Since adding features to a project will likely have a negative impact on schedules and budgets, once the project's scope has been defined no new features should added.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The scope statement documents the sponsor's needs and expectations.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The scope boundary establishes only those elements that are a part of the project work to be completed by the project team.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The scope boundary establishes both what is and is not part of the project work to be completed by the project team.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Project scope is a statement detailing the features and functions that must support the IT solution
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Project scope is a statement detailing the deliverables and activities that support the IT methodology.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:One way to communicate the project's deliverables is to create a deliverable definition table.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Actors are people or external systems that are elements of a data flow diagram (DFD).
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Scope grope suggests a fundamental and significant change in the project scope.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Joint application development JAD is a group-based method where end users define the system requirements or design the system.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Which PMBOK defined process within the knowledge area of project scope management confirms the project's scope is complete and accurate?:
+a)Project scope initiation
+b)Scope planning
+c)Scope definition
+d)Scope verification
+e)Scope change control
+ANSWER:Scope verification
+
+QUESTION:Which PMBOK defined process within the knowledge area of project scope management gives the project manager the authority to define the scope of the project?
+a)Project scope initiation
+b)Scope planning
+c)Scope definition
+d)Scope verification
+e)Scope change control
+ANSWER:Project scope initiation
+
+QUESTION:Which PMBOK defined process within the knowledge area of project scope management is responsible for setting the scope boundaries?
+a)Project scope initiation
+b)Scope planning
+c)Scope definition
+d)Scope verification
+e)Scope change control
+ANSWER:Scope planning
+
+QUESTION:Which PMBOK defined process within the knowledge area of project scope management protects the scope boundary from expanding as a result of increasing featurism?
+a)Project scope initiation
+b)Scope planning
+c)Scope definition
+d)Scope verification
+e)Scope change control
+ANSWER:Scope change control
+
+QUESTION:Which PMBOK defined process within the knowledge area of project scope management identifies project deliverables?
+a)Project scope initiation
+b)Scope planning
+c)Scope definition
+d)Scope verification
+e)Scope change control
+ANSWER:Scope definition
+
+QUESTION:The concept of actors is an integral part of:
+a)data flow diagram.
+b)use case diagram.
+c)joint application development session.
+d)deliverable structure chart
+e)deliverable definition table.
+ANSWER:use case diagram.
+
+QUESTION:The term scope creep is best described as:
+a)a project team's inability to define the project's scope.
+b)a fundamental change in project scope.
+c)the project slowdown caused by changes in the project MOV.
+d)increasing featurism.
+e)a scary mouthwash salesman.
+ANSWER:increasing featurism.
+
+QUESTION:Which of the following is a product-oriented scope definition tool?
+a)Context level data flow diagram
+b)Deliverable structure chart
+c)Deliverable definition table
+d)Work breakdown structure
+e)None of the above
+ANSWER:Context level data flow diagram
+
+QUESTION:A work breakdown structure (WBS) provides a hierarchical structure that outlines the activities or work that needs to be done in order to complete the project scope.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The work breakdown structure (WBS) decomposes, or subdivides, the project into smaller components and more manageable units of work called work packages.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:A tangible and verifiable piece of work is called a milestone.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Each phase should provide at least one specific deliverable.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:One way to ensure that the WBS has the appropriate level of detail is to ensure that the people who do the work are involved in its development.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Which of the following statements about the work breakdown structure (WBS) is not true?
+a)The WBS provides a hierarchical structure that outlines the activities or work that needs to be done in order to complete the project scope.
+b)The WBS should support the project's MOV.
+c)The WBS should be developed by the project manager.
+d)The WBS provides a framework for developing a tactical plan to structure the project work.
+e)The WBS provides a bridge or link between the project's scope and the detailed project plan.
+ANSWER:The WBS should be developed by the project manager.
+
+QUESTION:The Work Breakdown Structure is subdivided into smaller components called:
+a)work packages.
+b)milestones.
+c)deliverables.
+d)tasks.
+e)activities.
+ANSWER:work packages.
+
+QUESTION:The most common error in guesstimating is to be pessimistic and to overestimate the time and resources necessary to complete a project.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The Delphi technique is a quick and economical way to estimate the duration and costs of project activities.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Time boxing involves allocating a time segment for a task rather than attempting to estimate how long that task should take.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Basing an estimate of activity durations on experience gained from working on similar projects is called analogous estimation.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Counting lines of code (LOC) is a good way to encourage efficient programming.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Because function points are independent of technology, they provide a way to compare projects that may use different platforms or languages.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:An estimation technique characterized by schedule and cost estimates of how long something should take or should cost is
+a)Guesstimating
+b)Delphi Technique
+c)Time Boxing
+d)Top-Down Estimating
+e)Bottom-Up Estimating
+ANSWER:Top-Down Estimating
+
+QUESTION:An estimation technique characterized by the estimation, in person-timeframe (i.e. person-hours, person-weeks) terms, or small modules is
+a)Guesstimating
+b)Delphi Technique
+c)Time Boxing
+d)Top-Down Estimating
+e)Bottom-Up Estimating
+ANSWER:Bottom-Up Estimating
+
+QUESTION:An estimation technique characterized by picking numbers out of the air is
+a)Guesstimating
+b)Delphi Technique
+c)Time Boxing
+d)Top-Down Estimating
+e)Bottom-Up Estimating
+ANSWER:Guesstimating
+
+QUESTION:An estimation technique characterized by the allocation of a timeframe for a specified activity. e.g. a team has two weeks to complete a task and at the end of two weeks work on that task ceases is
+a)Guesstimating
+b)Delphi Technique
+c)Time Boxing
+d)Top-Down Estimating
+e)Bottom-Up Estimating
+ANSWER:Time Boxing
+
+QUESTION:An estimation technique characterized by the recruitment of multiple experts who provide rounds of estimates until a consensus estimate emerges is
+a)Guesstimating
+b)Delphi Technique
+c)Time Boxing
+d)Top-Down Estimating
+e)Bottom-Up Estimating
+ANSWER:Delphi Technique
+
+QUESTION:An Entity-Relationship Diagram (ERD) would be considered an:
+a)Internal Logical File (ILF)
+b)External Interface File (EIF)
+c)External Input process (EI)
+d)External Output process (EO)
+e)External Inquiry process (EQ)
+ANSWER:Internal Logical File (ILF)
+
+QUESTION:A screen that allows the user to input information using a keyboard and a mouse would be called an
+a)Internal Logical File (ILF)
+b)External Interface File (EIF)
+c)External Input process (EI)
+d)External Output process (EO)
+e)External Inquiry process (EQ)
+ANSWER:External Input process (EI)
+
+QUESTION:A data set of Customer names and addresses that is maintained by another application system would be called an
+a)Internal Logical File (ILF)
+b)External Interface File (EIF)
+c)External Input process (EI)
+d)External Output process (EO)
+e)External Inquiry process (EQ)
+ANSWER:External Interface File (EIF)
+
+QUESTION:A management report and its accompanying graphs would be considered an
+a)Internal Logical File (ILF)
+b)External Interface File (EIF)
+c)External Input process (EI)
+d)External Output process (EO)
+e)External Inquiry process (EQ)
+ANSWER:External Output process (EO)
+
+QUESTION:Something that includes a combination of inputs and outputs for retrieving data from either the internal files or from files external to the application would be called an
+a)Internal Logical File (ILF)
+b)External Interface File (EIF)
+c)External Input process (EI)
+d)External Output process (EO)
+e)External Inquiry process (EQ)
+ANSWER:External Inquiry process (EQ)
+
+QUESTION:The project budget is determined by the project schedule, the cost of the resources assigned to each of the tasks, and by any other direct or indirect costs and reserves.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The PMBOK area called project cost management includes cost estimating, cost budgeting, and cost control.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Gantt charts are useful for planning but should not be used for tracking and monitoring the progress of a project.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Project network diagrams provide valuable information about the logical sequence and dependencies among the various activities and tasks so that a completion date or deadline can be determined.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Predecessor activities are activities that can be worked on at the same time as another activity.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Predecessor activities are activities that must be completed before another activity can be started.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:A parallel activity is a task that can be worked on at the same time as another activity.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Parallel activities can shorten the project schedule, but can have an impact on project resources if a resource is assigned to two tasks at the same time.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The critical path is the shortest path in the project network and also is the longest time in which the project can be completed.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The critical path is the longest path in the project network and also is the shortest time in which the project can be completed.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Identifying the critical path is important because any change in the duration of the activities or tasks on the critical path will affect the project's schedule.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The critical path has zero slack (or float).
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Identifying the critical path is important because a project can only have one critical path and it never changes.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:PERT was developed in the 1950s to create a visual representation of scheduled activities, their logical sequence, and interrelationships using a statistical probability distribution.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Installing a server before loading the operating system is an example of a finish-to-start relationship.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Start-to-Start and Finish-to-Finish relationships allow activities to be worked on in parallel.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:A start-to-finish activity is the most common relationship between two activities.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The direct costs of using a resource is the only type of cost that should be considered when developing the project budget.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Sunk costs include such things as rent, utilities, insurance, and other administrative costs.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:A reserve can provide a cushion when unexpected situations arise.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The term most closely associated with activity bars across a horizontal time axis is:
+a)Project Network Diagrams
+b)Gantt Charts
+c)PERT
+d)Activity on the Node
+e)Critical Path Analysis
+ANSWER:Gantt Charts
+
+QUESTION:The term most closely associated with the identification of predecessors, successors, and parallel activities is:
+a)Project Network Diagrams
+b)Gantt Charts
+c)PERT
+d)Activity on the Node
+e)Critical Path Analysis
+ANSWER:Project Network Diagrams
+
+QUESTION:The technique used to find the sequence of tasks with zero slack (or float) is most closely associated with:
+a)Project Network Diagrams
+b)Gantt Charts
+c)PERT
+d)Activity on the Node
+e)Critical Path Analysis
+ANSWER:Critical Path Analysis
+
+QUESTION:The technique used to help manage the Polaris submarine project and which bases activity estimates on probabilistic estimates of three scenarios is most closely associated with:
+a)Project Network Diagrams
+b)Gantt Charts
+c)PERT
+d)Activity on the Node
+e)Critical Path Analysis
+ANSWER:PERT
+
+QUESTION:An activity being analyzed under PERT was judged to most likely have a duration of 40 days. When considering the time it would take to complete the activity if every relevant factor went well, it was estimated to take 20 days and even under the worst case imaginable, the task would be take 50 days. The estimates PERT duration of that activity is:
+a)36.67 days
+b)38.33 days
+c)37.50 days
+d)28.33 days
+e)32.67 days
+ANSWER:38.33 days
+
+QUESTION:Under the Precedence Diagramming Method, the situation which occurs when a relationship between two tasks that can or must start at the same time is called:
+a)Finish-To-Start (FS)
+b)Start-To-Start (SS)
+c)Finish-To-Finish (FF)
+d)Start-To-Finish (SF)
+e)none of the above
+ANSWER:Start-To-Start (SS)
+
+QUESTION:Under the Precedence Diagramming Method, the most common relationship between two activities which implies a logical sequence is called:
+a)Finish-To-Start (FS)
+b)Start-To-Start (SS)
+c)Finish-To-Finish (FF)
+d)Start-To-Finish (SF)
+e)none of the above
+ANSWER:Finish-To-Start (FS)
+
+QUESTION:Under the Precedence Diagramming Method, the situation which occurs when two activities can start at different times, have different durations, but are planned to be competed at the same time is called:
+a)Finish-To-Start (FS)
+b)Start-To-Start (SS)
+c)Finish-To-Finish (FF)
+d)Start-To-Finish (SF)
+e)none of the above
+ANSWER:Finish-To-Finish (FF)
+
+QUESTION:Under the Precedence Diagramming Method, the situation which occurs when task A cannot end until task B starts is called:
+a)Finish-To-Start (FS)
+b)Start-To-Start (SS)
+c)Finish-To-Finish (FF)
+d)Start-To-Finish (SF)
+e)none of the above
+ANSWER:Start-To-Finish (SF)
+
+QUESTION:The decision to build an application system based on what was left after a previous attempt ended in failure primarily because of the large investment the company made in the failed project was most likely made by a manager who did not fully understand:
+a)Direct Costs
+b)Indirect Costs
+c)Sunk Costs
+d)Learning Curve Costs
+e)Reserves Costs
+ANSWER:Sunk Costs
+
+QUESTION:The term most closely associated with activity bars across a horizontal time axis is:
+a)Project Network Diagrams
+b)Gantt Charts
+c)PERT
+d)Activity on the Node
+e)Critical Path Analysis
+ANSWER:Gantt Charts
+
+QUESTION:Failure to follow a formal risk management plan will often cause organizations to be reactive and find themselves in a state of permanent crisis.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The best time to plan for risk is during the project execution phase when risk can be assessed most accurately.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Effective project risk management requires that each risk have an owner.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:In general, because of the similarities in IT projects, one can manage all projects and risks in the same manner.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Project risk management focuses only on the downside that results from unexpected problems or threats.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The PMBOK definition of project risk suggests that a systematic process is needed to effectively manage the risk of a project.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The Project Management Body of Knowledge (PMBOK) that defines the process of risk management includes all of the following processes except:
+a)Risk Management Planning
+b)Risk Identification
+c)Qualitative Risk Analysis
+d)IT Project Risk Impact Analysis
+e)Risk Response Planning
+ANSWER:IT Project Risk Impact Analysis
+
+QUESTION:Gaining consensus from a group of experts would be most closely associated with:
+a)Brainstorming
+b)Nominal Group Technique
+c)Delphi Technique
+d)Cause-and-Effect Diagrams
+ANSWER:Delphi Technique
+
+QUESTION:Initial generation of ideas without evaluation would be most closely associated with:
+a)Brainstorming
+b)Nominal Group Technique
+c)Delphi Technique
+d)Cause-and-Effect Diagrams
+ANSWER:Brainstorming
+
+QUESTION:A structured technique for identifying risks which requires participants to rank and prioritize ideas in round-robin fashion is most closely associated with:
+a)Brainstorming
+b)Nominal Group Technique
+c)Delphi Technique
+d)Cause-and-Effect Diagrams
+ANSWER:Nominal Group Technique
+
+QUESTION:The goal of a sound risk management is to completely avoid all risk.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Triggers or flags in the form of metrics should be identified to draw attention to a particular risk when it occurs.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Unknown-unknown risks are residual risks that we cannot even imagine happening.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Since risk arises from uncertainty, there can be no such category as known risks.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Nominal Group Technique is a free form, unstructured process similar to Brainstorming.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The fishbone or Ishikawa diagram is a form of cause and effect analysis diagramming.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Since IT projects are developed in an environment that changes so rapidly and so extensively, there is little value in using past projects to guide our risk assessment of new ones.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Qualitative risk analysis has as one of its strengths the ability to include subjective analysis based on experience and judgment.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The concept of expected value rests on the notion of a probability-weighted summation of component parts.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Receiving a much larger than usual gas utility bill because of an early spring cold spell is an example of what type of risk?
+a)known risk
+b)known-unknown risk
+c)unknown-unknown risk
+d)known-known
+e)none of the above
+ANSWER:known-unknown risk
+
+QUESTION:Which of the following distributions has mean which is equal to (a + 4b +c) / 6 where a, b, and c are denote optimistic, most likely, and pessimistic estimates respectively?
+a)Discrete Distribution
+b)Normal Distribution
+c)Pert Distribution
+d)Triangular Distribution
+e)Binomial Distribution
+ANSWER:Pert Distribution
+
+QUESTION:Which of the following distributions has mean which is equal to (a +b +c) / 3 where a, b, and c are denote optimistic, most likely, and pessimistic estimates respectively?
+a)Discrete Distribution
+b)Normal Distribution
+c)Pert Distribution
+d)Triangular Distribution
+e)Binomial Distribution
+ANSWER:Triangular Distribution
+
+QUESTION:Which of the following processes assess the likelihood of risk occurrences and their consequences using numeric probability assignments?
+a)Qualitative Risk Analysis
+b)Risk Identification
+c)Quantitative Risk Analysis
+d)Risk Response Planning
+ANSWER:Quantitative Risk Analysis
+
+QUESTION:Which of the following tools and techniques shows the impacts of one decision over another as well as the probability and cost of each risk along a logical path?
+a)Simulation
+b)Decision tree
+c)Probability/impact risk matrix
+d)Sensitivity analysis
+ANSWER:Decision tree
+
+QUESTION:Information-gathering techniques used in the Risk Identification process include all of the following except:
+a)Brainstorming
+b)Delphi technique
+c)Interviewing
+d)PERT technique
+ANSWER:PERT technique
+
+QUESTION:Complete this sentence "a risk is a(n) __________ occurrence that can affect the project for good or bad."
+a)Known
+b)Potential
+c)Uncertain
+d)Known unknown
+ANSWER:Uncertain
+
+QUESTION:When should risk identification happen?
+a)As early as possible in the initiation process
+b)As early as possible in the planning process
+c)As early as possible in the controlling process
+d)As early as possible in the execution process
+ANSWER:As early as possible in the planning process
+
+QUESTION:You are the project manager of the KLJH Project. This project will last two years and has 30 stakeholders. How often should risk identification take place?
+a)Once at the beginning of the project
+b)Throughout the execution processes
+c)Throughout the project
+d)Once per project phase
+ANSWER:Throughout the project
+
+QUESTION:Which of the following describes SWOT?
+a)Analysis of strengths, weakness, options, and timing
+b)Analysis of strengths, weakness, opportunities, and threats
+c)An elite project team that comes in and fixes project risks and threats
+d)Ratings of 1 to 100
+ANSWER:Analysis of strengths, weakness, opportunities, and threats
+
+QUESTION:Which risk analysis provides the project manager with a risk ranking?
+a)Quantifiable
+b)Qualitative
+c)The utility function
+d)SWOT analysis
+ANSWER:Qualitative
+
+QUESTION:How can a project manager determine whether it is better to build or buy a software?
+a)Decision Tree Analysis
+b)Fishbone model
+c)Ishikawa diagram
+d)ROI Analysis
+ANSWER:Decision Tree Analysis
+
+QUESTION:The purpose of earned value analysis is to
+a)determine how to compensate developers based on their productivity
+b)provide a quantitative means of assessing software project progress
+c)provide a qualitative means of assessing software project progress
+d)set the price point for a software product based on development effort
+ANSWER:provide a quantitative means of assessing software project progress
+
+QUESTION:Proactive risk management is sometimes described as fire fighting
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Because of their capacity for capturing and distributing data and information, IT based solutions to communications plans always represent the best solution.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Communication with project sponsors of unexpected negative occurrences usually will not cause a loss of credibility.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The project communications plan may be informal depending on the needs of the project stakeholders and the size of the project.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:If a stakeholder has been judged to adversarial and having a vested interest in the failure of yourproject, it would probably be wise to keep him/her out of the communication loop.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Since project metrics are defined as a qualitative measurement of some attribute of the project, their measurement should reflect the subjective qualitative judgments of project leader or team members.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Only those attributes that have a high impact on the project are worth measuring.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Generally, the more metrics one adopts, the greater the project control.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The project team should design its own measurement system.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The planned value (PV) tells us how much of our project will be completed in each time increment.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Earned value is often referred to as the budgeted cost at completion (BAC).
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Earned value provides a performance measurement that tells us how much of the budget we really should have spent for the work completed so far.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:If your EV is greater than your AC, you have a positive Cost Variance.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:As a project manager, you would be pleased see a Cost Performance Index CPI less than one (1) for your project.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The Schedule Performance Index (SPI) for our project is greater than one (1) and so we would anticipate that all other things being equal, our project will finish ahead of schedule.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The schedule variance (SV) shows the difference between the current progress of the project and its original or planned value
+a)True
+b)False
+ANSWER:True
+
+QUESTION:A cost variance (CV) can be positive or negative, but never zero
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Given the advances that have been made in telecommunications and IT technology in general, there is little value or necessity today for Face-to-Face (F2F) meetings.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Internet and Web-Based technologies have a significant role to play in communication and collaboration efforts of project teams.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Earned Value tells us __________
+a)how much we actually spent for work completed.
+b)how much we budgeted to spend at the beginning of the project.
+c)how much of the budget we have left to spend on the project.
+d)how much of the budget we really should have spent on the work completed so far.
+e)None of the above
+ANSWER:how much of the budget we really should have spent on the work completed so far.
+
+QUESTION:If you hired a consulting firm to develop a system which is estimated to take four months to complete with the tasks evenly divided over the four months and you agree to pay for the project with equal monthly installments, those payments would be called
+a)Planned Value (PV).
+b)Budget At Completion (BAC).
+c)Actual Cost (AC).
+d)Earned Value (EV).
+e)None of the above.
+ANSWER:Planned Value (PV).
+
+QUESTION:If we know the Actual Cost of a WBS component, what other value do we need to know in order to calculate the cost performance index (CPI)?
+a)Budget at Completion (BAC)
+b)Budget costs of remaining work (BCRW)
+c)Schedule Variance (SV)
+d)Expected Time Complete (ETC)
+e)Earned Value (EV)
+ANSWER:Earned Value (EV)
+
+QUESTION:Cost Variance (CV) = Earned Value - ___________.
+a)Budget at Completion (BAC)
+b)Budgeted cost of remaining work (BCRW)
+c)Schedule Variance (SV)
+d)Actual Cost (AC)
+e)None of the above
+ANSWER:Actual Cost (AC)
+
+QUESTION:Which of the following would one utilize if interested in estimating the final project cost for a project that is over budget in the early stages
+a)Cost performance index (CPI)
+b)Scheduled performance index (SPI)
+c)Cost Variance (CV)
+d)Estimate at Completion (EAC)
+e)Estimate To Complete (ETC)
+ANSWER:Estimate at Completion (EAC)
+
+QUESTION:Barring a change in project scope and given a Cost Performance Index (CPI) that is less than 1, the most reasonable inference to draw is that
+a)The project will likely finish earlier than planned.
+b)The project will likely finish later than planned.
+c)The project will likely cost more than planned.
+d)The project will likely cost less than planned.
+e)The project will likely be on time and on budget
+ANSWER:The project will likely cost more than planned.
+
+QUESTION:Barring a change in project scope and given a Schedule Performance Index (SPI) that is greater than 1, the most reasonable inference to draw is that:
+a)The project will likely finish earlier than planned.
+b)The project will likely finish later than planned.
+c)The project will likely cost more than planned.
+d)The project will likely cost less than planned.
+e)The project will likely be on time and on budget.
+ANSWER:The project will likely finish earlier than planned.
+
+QUESTION:A _________ tells us what the project team has accomplished:
+a)Budget report
+b)Status report
+c)Progress report
+d)Forecast report
+e)News report
+ANSWER:Progress report
+
+QUESTION:Which of the following is not likely a characteristic of a good project metric?
+a)Understandable
+b)Quantifiable
+c)Cost Effective
+d)Subjective
+e)High Impact
+ANSWER:Subjective
+
+QUESTION:Project implementation focuses on installing or delivering the project's major deliverable in the information system that was built or purchased.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:For a project to be closed successfully, the product of the project must be formally accepted by the project sponsor or customer.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Immediately after the implementation, the project's MOV should be calculated.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The direct cutover is the generally the least favored implementation approach.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The parallel implementation approach is generally considered to be the riskiest implementation approach.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The phased approach is generally the least expensive of the three implementation approaches.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Premature project closure is a characteristic of a failed project.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Failure to clearly define and agree on the project's MOV may lead to a runaway or perpetual project.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Project termination by starvation may result from changed priorities.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Most of the project documentation is completed during the development phase.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Delivery, installation, and implementation of the information system indicate the sponsor's acceptance of the project.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The final project report may be circulated to key stakeholders prior to the final meeting and presentation.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Once the project is accepted by the sponsor or customer, a number of administrative closure processes remain.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Most team members are less critical of their own performance than the project manager.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Individual performance reviews should provide a consensus on improving performance.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Conducting the postmortem review is the responsibility of the project sponsor.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The project audit is the generally conducted by the project manager and project team.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:The project MOV is usually readily determined at the close of the project.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Before conducting the final project evaluation, one must be sure that the information system delivered has not been changed by the users or support staff.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:The final judge of project success is the evaluation of the project's MOV.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Which implementation approach usually entails the greatest level of risk?
+a)Direct Cutover
+b)Parallell
+c)Phased
+d)All of the above
+e)None of the above
+ANSWER:Direct Cutover
+
+QUESTION:Which implementation approach involves no risk?
+a)Direct Cutover
+b)Parallel
+c)Phased
+d)All of the above
+e)None of the above
+ANSWER:None of the above
+
+QUESTION:Which implementation approach is usually the most expensive and least risky?
+a)Direct Cutover
+b)Parallel
+c)Phased
+d)All of the above
+e)None of the above
+ANSWER:Parallel
+
+QUESTION:Which approach allows for implementation of modules in different departments or locations?
+a)Direct Cutover
+b)Parallel
+c)Phased
+d)All of the above
+e)None of the above
+ANSWER:Phased
+
+QUESTION:Which termination circumstance is one in which the project is completed as planned?
+a)Normal
+b)Premature
+c)Perpetual
+d)Failed
+e)Changed Priority
+ANSWER:Normal
+
+QUESTION:Which termination circumstance is one in which the project is ended because the costs of completing it are greater than the potential benefits of completing it.
+a)Normal
+b)Premature
+c)Perpetual
+d)Failed
+e)Changed Priority
+ANSWER:Failed
+
+QUESTION:Another name for a runaway project is
+a)Normal
+b)Premature
+c)Perpetual
+d)Failed
+e)Changed Priority
+ANSWER:Perpetual
+
+QUESTION:As a result of competitor's actions, a project was pushed to completion without all of the envisioned features. This project termination is termed __________ ?
+a)Normal
+b)Premature
+c)Perpetual
+d)Failed
+e)Changed Priority
+ANSWER:Premature
+
+QUESTION:The most important requirement for project closure under normal circumstances is:
+a)completing the project on time.
+b)completing the project on or under budget.
+c)redeploying team members successfully to other projects.
+d)following the project methodology.
+e)obtaining the project sponsor's acceptance of the project.
+ANSWER:obtaining the project sponsor's acceptance of the project.
+
+QUESTION:The final project report should include
+a)Project Summary
+b)Comparison of Planned vs. Actual
+c)Outstanding Issues
+d)Project Documentation List
+e)All of the above
+ANSWER:All of the above
+
+QUESTION:Discussing team members' next assignment is generally a part of
+a)Individual Performance Review
+b)Postmortem Review
+c)Project Audit
+d)MOV Evaluation
+e)None of the above
+ANSWER:Individual Performance Review
+
