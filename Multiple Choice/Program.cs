@@ -14,6 +14,7 @@ namespace Multiple_Choice
             Exam exam = new Exam();
             String url = "se3314.txt";  // Change URL to location of text file that contains questions
             Console.WindowWidth = 100;  // 0 < Console.WindowWidth <= Console.LargestWindowWidth
+            Console.Title = "Multiple Choice Exam";
 
             // Opening message
             if (exam.LoadQuestions(url))
@@ -62,6 +63,9 @@ namespace Multiple_Choice
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Write a sequence of -'s to create a horizontal line across the console
+        /// </summary>
         private static void WriteHorizontalRule()
         {
             for (int i = 0; i < Console.WindowWidth; i++)
