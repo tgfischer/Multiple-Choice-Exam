@@ -17,7 +17,7 @@ namespace Multiple_Choice
             Console.Title = "Multiple Choice Exam";
 
             // Opening message
-            if (exam.LoadQuestions(url))
+            if (!exam.LoadQuestions(url))
             {
                 Console.WriteLine("\nPress any key to quit...");
                 Console.ReadKey();

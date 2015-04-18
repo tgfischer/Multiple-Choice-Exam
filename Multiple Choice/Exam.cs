@@ -22,7 +22,7 @@ namespace Multiple_Choice
         public bool LoadQuestions(String url)
         {
             this.questions = QuestionLoader.LoadQuestions(url);
-            return this.questions == null;
+            return this.questions != null;
         }
 
         public bool CheckAnswer(int choice)
