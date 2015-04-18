@@ -26,3 +26,14 @@ ANSWER:Some answer
 
 For the possible answers, it doesn't matter what letters you use. Just make use you have the parenthesis just before the start of the answer.
 
+### Example:
+```
+QUESTION:Quantization refers to
+a)sampling in the voltage dimension
+b)sampling in the frequency dimension
+c)sampling in the time dimension
+d)sampling in the bitrate dimension
+e)sampling in the resistance dimension
+ANSWER:sampling in the voltage dimension
+```
+
